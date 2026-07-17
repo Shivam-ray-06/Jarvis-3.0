@@ -1,0 +1,11 @@
+ollama
+rich
+pydantic
+chromadb
+playwright
+pymupdf
+pyautogui
+sounddevice
+numpy
+scipy
+openai-whisper
